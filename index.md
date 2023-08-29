@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Mr. Guse - 2023 Courses
+layout: home
+title: Mr. Guse - Courses
 ---
 
 # Hello
