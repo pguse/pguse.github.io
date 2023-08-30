@@ -9,4 +9,4 @@ layout: default
 title: Mr. Guse - Courses
 ---
 
-# Hello
+# Mr. Guse - Courses
